@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --account=PAS3194
+#SBATCH --account=XXXXXX
 #SBATCH --job-name=_Gls3RD
 #SBATCH --time=164:00:00
 #SBATCH --ntasks-per-node=1
