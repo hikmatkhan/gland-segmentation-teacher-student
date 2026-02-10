@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --account=PAS2942
+#SBATCH --account=XXXXXX
 #SBATCH --job-name=IndepEval_Gland
 #SBATCH --time=24:00:00
 #SBATCH --ntasks-per-node=1
