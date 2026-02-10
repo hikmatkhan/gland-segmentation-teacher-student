@@ -473,7 +473,7 @@ Pelotonia Research Center, 2nd Floor
 Columbus, OH 43210, USA
 
 📧 Email: [Hikmat.Khan@osumc.edu](mailto:Hikmat.Khan@osumc.edu)
-📱 Tel: +1-856-405-1073
+📱 Tel: +1-XXX-XXX-XXXX
 
 **Co-Authors:**
 - **Wei Chen** (Co-PI, Funding)
