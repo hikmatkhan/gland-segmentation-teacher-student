@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# PyTorch
+*.pth
+*.pkl
+*.ckpt
+
+# Training outputs
+outputs/
+logs/
+runs/
+test_output/
+test_pseudo_gt_visualizations/
+
+# Data
+data/
+datasets/
+*.npy
+*.npz
+
+# IDEs
+.vscode/
+.idea/
+.DS_Store
+*.swp
+
+# SLURM
+slurm-*.out
+training_*.err
+training_*.out
+
+# Temporary
+*.tmp
+*.log
+*.bak
+
+# Excel tracking files
+*.xlsx
