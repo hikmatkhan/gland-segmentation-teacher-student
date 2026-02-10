@@ -2938,8 +2938,8 @@ def main():
 
     # Resume from checkpoint if specified
     if args.resume:
-        # TODO: Implement checkpoint resuming
-        print(f"Resuming from {args.resume} - feature to be implemented")
+        print(f"⚠️  Note: Checkpoint resuming from command line not yet supported.")
+        print(f"    For resuming training, use the resume_nnunet_training.sh script.")
 
     # Start training
     trainer.train()
