@@ -423,7 +423,7 @@ Use of the in-house OSUWMC dataset was approved by the Institutional Review Boar
 
 ### In-House Dataset
 
-The OSUWMC dataset is available upon reasonable request — please contact the corresponding author at <Hikmat.Khan@osumc.edu>.
+The OSUWMC dataset is available upon reasonable request — please contact the corresponding author at <Hikmat.Khan@osumc.edu> or <Hikmat.khan179@gmail.com>.
 
 ### Public Datasets
 
@@ -444,10 +444,10 @@ All training, inference, and evaluation code is provided in this repository unde
 **Hikmat Khan**, PhD
 Department of Pathology, College of Medicine
 The Ohio State University Wexner Medical Center
-Pelotonia Research Center, 2nd Floor, 2281 Kenny Road, Suite 450
+Pelotonia Research Center, 2281 Kenny Road,
 Columbus, OH 43210, USA
 
-📧 <Hikmat.Khan@osumc.edu>
+📧 <Hikmat.Khan@osumc.edu> or <Hikmat.khan179@gmail.com> 
 🔗 ORCID: [0009-0008-2550-1991](https://orcid.org/0009-0008-2550-1991)
 
 ---
