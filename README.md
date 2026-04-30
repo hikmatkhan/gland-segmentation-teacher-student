@@ -307,6 +307,11 @@ Our weakly supervised framework matches the leading fully supervised model (EWAS
 > **Figure 5.** Whole-slide–level qualitative assessment across (a) the in-house OSUWMC cohort, (b) TCGA-COAD, (c) TCGA-READ, and (d) SPIDER. The model trained on OSUWMC generalizes robustly to TCGA-COAD and TCGA-READ **without any additional fine-tuning**. Performance degrades on SPIDER due to severe domain shift (lower image quality, pronounced staining heterogeneity, higher morphological variability), highlighting the well-known challenge of cross-domain generalization in computational pathology and motivating future work on explicit domain adaptation.
 
 ---
+![Figure S1 – ](docs/figures/slide_level_1.png)
+
+![Figure S2 – ](docs/figures/slide_level_2.png)
+
+![Figure 5 – ](docs/figures/slide_level_3.png)
 
 ## 📁 Project Structure
 
